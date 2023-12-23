@@ -1,0 +1,18 @@
+{
+ "action": "Show Form Tour",
+ "creation": "2023-12-23 22:21:20.312483",
+ "docstatus": 0,
+ "doctype": "Onboarding Step",
+ "idx": 0,
+ "is_complete": 0,
+ "is_single": 0,
+ "is_skipped": 0,
+ "modified": "2023-12-23 22:21:20.312483",
+ "modified_by": "Administrator",
+ "name": "Create Leave Period",
+ "owner": "Administrator",
+ "show_form_tour": 0,
+ "show_full_form": 0,
+ "title": "Create Leave Period",
+ "validate_action": 1
+}

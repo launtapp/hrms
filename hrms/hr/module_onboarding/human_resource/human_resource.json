@@ -13,7 +13,7 @@
  "documentation_url": "https://docs.erpnext.com/docs/user/manual/en/human-resources",
  "idx": 0,
  "is_complete": 0,
- "modified": "2023-12-21 15:52:14.930994",
+ "modified": "2023-12-23 22:21:32.897762",
  "modified_by": "Administrator",
  "module": "HR",
  "name": "Human Resource",
@@ -30,6 +30,9 @@
   },
   {
    "step": "Data import"
+  },
+  {
+   "step": "Create Leave Period"
   },
   {
    "step": "Create Leave Type"
