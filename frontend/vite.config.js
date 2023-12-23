@@ -19,8 +19,8 @@ export default defineConfig({
 			},
 			manifest: {
 				display: "standalone",
-				name: "Frappe HR",
-				short_name: "Frappe HR",
+				name: "Launt HR",
+				short_name: "Launt HR",
 				start_url: "/hrms",
 				description: "Everyday HR & Payroll operations at your fingertips",
 				icons: [

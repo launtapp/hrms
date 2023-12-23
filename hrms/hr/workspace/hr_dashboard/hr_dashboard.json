@@ -1,0 +1,46 @@
+{
+ "charts": [
+  {
+   "chart_name": "Hiring vs Attrition Count",
+   "label": "Hiring vs Attrition Count"
+  },
+  {
+   "chart_name": "Employees by Branch",
+   "label": "Employees by Branch"
+  },
+  {
+   "chart_name": "Employees by Grade",
+   "label": "Employees by Grade"
+  },
+  {
+   "chart_name": "Employees by Age",
+   "label": "Employees by Age"
+  }
+ ],
+ "content": "[{\"id\":\"1Ewhy9kfJP\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">HR Dashboard</span>\",\"col\":12}},{\"id\":\"V9sC_kHwYq\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Hiring vs Attrition Count\",\"col\":12}},{\"id\":\"2jgiqX1X_z\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Employees by Branch\",\"col\":12}},{\"id\":\"eJhKGY5exm\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Employees by Grade\",\"col\":12}},{\"id\":\"QL0Q5m8Vqc\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Employees by Age\",\"col\":12}}]",
+ "creation": "2023-12-21 22:37:03.919215",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "share",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "HR Dashboard",
+ "links": [],
+ "modified": "2023-12-22 03:59:31.965293",
+ "modified_by": "Administrator",
+ "module": "HR",
+ "name": "HR Dashboard",
+ "number_cards": [],
+ "owner": "somchai@gmail.com",
+ "parent_page": "Dashboards",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 6.0,
+ "shortcuts": [],
+ "title": "HR Dashboard"
+}

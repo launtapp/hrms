@@ -100,7 +100,7 @@
    "options": "Role"
   },
   {
-   "default": "1",
+   "default": "0",
    "fieldname": "send_leave_notification",
    "fieldtype": "Check",
    "label": "Send Leave Notification"
@@ -122,6 +122,7 @@
    "options": "Email Template"
   },
   {
+   "default": "8",
    "fieldname": "standard_working_hours",
    "fieldtype": "Float",
    "label": "Standard Working Hours"
@@ -273,7 +274,7 @@
  "idx": 1,
  "issingle": 1,
  "links": [],
- "modified": "2023-11-01 11:06:31.329718",
+ "modified": "2023-12-21 01:46:56.193988",
  "modified_by": "Administrator",
  "module": "HR",
  "name": "HR Settings",

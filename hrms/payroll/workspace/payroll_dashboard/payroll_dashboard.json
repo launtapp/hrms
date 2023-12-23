@@ -1,0 +1,34 @@
+{
+ "charts": [
+  {
+   "chart_name": "Outgoing Salary",
+   "label": "Outgoing Salary"
+  }
+ ],
+ "content": "[{\"id\":\"uqyzdSZAxX\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Payroll Dashboard</span>\",\"col\":12}},{\"id\":\"If5O-BkbVg\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Outgoing Salary\",\"col\":12}}]",
+ "creation": "2023-12-21 22:37:39.021061",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "money-coins-1",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Payroll Dashboard",
+ "links": [],
+ "modified": "2023-12-22 03:59:57.418448",
+ "modified_by": "Administrator",
+ "module": "Payroll",
+ "name": "Payroll Dashboard",
+ "number_cards": [],
+ "owner": "somchai@gmail.com",
+ "parent_page": "Dashboards",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 7.0,
+ "shortcuts": [],
+ "title": "Payroll Dashboard"
+}

@@ -1,5 +1,5 @@
 app_name = "hrms"
-app_title = "Frappe HR"
+app_title = "Launt HR"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = "Modern HR and Payroll Software"
 app_email = "contact@frappe.io"
@@ -88,6 +88,7 @@ jinja = {
 
 # before_install = "hrms.install.before_install"
 after_install = "hrms.install.after_install"
+before_migrate = "hrms.setup.before_migrate"
 after_migrate = "hrms.setup.update_select_perm_after_install"
 
 # Uninstallation
@@ -331,3 +332,7 @@ override_doctype_dashboards = {
 # Recommended only for DocTypes which have limited documents with untranslated names
 # For example: Role, Gender, etc.
 # translated_search_doctypes = []
+
+
+# fixtures
+fixtures = ["Income Tax Slab", "Salary Component"]

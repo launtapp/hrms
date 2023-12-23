@@ -109,7 +109,7 @@
    "options": "Leave Type"
   },
   {
-   "default": "1",
+   "default": "0",
    "description": "Add unused leaves from previous leave period's allocation to this allocation",
    "fieldname": "carry_forward",
    "fieldtype": "Check",
@@ -153,7 +153,7 @@
    "fieldname": "dates_based_on",
    "fieldtype": "Select",
    "label": "Dates Based On",
-   "options": "Leave Period\nJoining Date\nCustom Range"
+   "options": "Leave Period"
   },
   {
    "depends_on": "eval:doc.dates_based_on == 'Leave Period'",
@@ -186,7 +186,7 @@
  "idx": 1,
  "issingle": 1,
  "links": [],
- "modified": "2023-09-29 13:06:06.940985",
+ "modified": "2023-12-21 01:45:50.228423",
  "modified_by": "Administrator",
  "module": "HR",
  "name": "Leave Control Panel",
