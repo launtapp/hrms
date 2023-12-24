@@ -1,5 +1,6 @@
 {
  "action": "Show Form Tour",
+ "action_label": "\u0e17\u0e31\u0e27\u0e23\u0e4c",
  "creation": "2023-12-23 22:21:20.312483",
  "docstatus": 0,
  "doctype": "Onboarding Step",
@@ -7,12 +8,13 @@
  "is_complete": 0,
  "is_single": 0,
  "is_skipped": 0,
- "modified": "2023-12-23 22:21:20.312483",
+ "modified": "2023-12-24 19:44:56.722528",
  "modified_by": "Administrator",
  "name": "Create Leave Period",
  "owner": "Administrator",
+ "reference_document": "Leave Period",
  "show_form_tour": 0,
  "show_full_form": 0,
- "title": "Create Leave Period",
+ "title": "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e0a\u0e48\u0e27\u0e07\u0e01\u0e32\u0e23\u0e25\u0e32",
  "validate_action": 1
 }
